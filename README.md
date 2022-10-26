@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Amit Singh Jalal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+</br>
+
 <img align="right" alt="Coding" width="400" src="https://s3.amazonaws.com/images.seroundtable.com/minion-typing-1570535370.gif"
  />
 
