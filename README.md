@@ -35,10 +35,14 @@
 
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitjalal&show_icons=true&locale=en&layout=compact" alt="amitjalal" /></p>
-</br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitjalal&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="amitjalal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitjalal&show_icons=true&locale=en" alt="amitjalal" /></p>
-</br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitjalal&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&locale=en" alt="amitjalal" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitjalal&" alt="amitjalal" /></p>
+
+<!-- locale=en&layout=compact -->
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /> -->
